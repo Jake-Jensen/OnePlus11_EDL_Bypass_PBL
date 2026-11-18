@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Package - Release ZIP" type="ShConfigurationType" factoryName="Shell Script" folderName="Distribution">
+    <option name="SCRIPT_TEXT" value="" />
+    <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Build.ps1" />
+    <option name="SCRIPT_OPTIONS" value="-Profile release -Package" />
+    <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="INTERPRETER_PATH" value="C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe" />
+    <option name="INTERPRETER_OPTIONS" value="-NoProfile -ExecutionPolicy Bypass -File" />
+    <option name="EXECUTE_IN_TERMINAL" value="false" />
+    <option name="EXECUTE_SCRIPT_FILE" value="true" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>

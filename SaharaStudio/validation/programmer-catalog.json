@@ -1,0 +1,432 @@
+{
+  "root": "Firehoses",
+  "folders": [
+    {
+      "path": "Firehoses\\460",
+      "programmers": [
+        {
+          "path": "Firehoses\\460\\OPPO_SM6115_New_Chimera_V1.2.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\460\\digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\460\\sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\670_710_712",
+      "programmers": [
+        {
+          "path": "Firehoses\\670_710_712\\OPPO_710_670_712_New_Chimera.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [],
+      "verifications": [],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\695_6SGen3",
+      "programmers": [
+        {
+          "path": "Firehoses\\695_6SGen3\\OPPO_695_New_Chimera_SM6375_V2.1.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\695_6SGen3\\OPPO_SM6375_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\695_6SGen3\\OPPO_SM6375_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\6g1_7sg2",
+      "programmers": [
+        {
+          "path": "Firehoses\\6g1_7sg2\\loader.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\6g1_7sg2\\Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\6g1_7sg2\\Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\710_670_712",
+      "programmers": [
+        {
+          "path": "Firehoses\\710_670_712\\OPPO_710_670_712_New_Chimera.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [],
+      "verifications": [],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\765G_765_768G_732_730G_730_678_675",
+      "programmers": [
+        {
+          "path": "Firehoses\\765G_765_768G_732_730G_730_678_675\\OPPO_765G_765_768G_732_730G_730_678_675_New_Chimera.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [],
+      "verifications": [],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\7plus_gen2",
+      "programmers": [
+        {
+          "path": "Firehoses\\7plus_gen2\\SM7475_V1.3.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\7plus_gen2\\SM7475_Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\7plus_gen2\\SM7475_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\7plus_gen3",
+      "programmers": [
+        {
+          "path": "Firehoses\\7plus_gen3\\devprg_V1.0.00",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\7plus_gen3\\digest"
+      ],
+      "verifications": [
+        "Firehoses\\7plus_gen3\\sig"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\888_888Plus",
+      "programmers": [
+        {
+          "path": "Firehoses\\888_888Plus\\OPPO_SM8350_New_Chimera_V2.6.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\888_888Plus\\OPPO_SM8350_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\888_888Plus\\OPPO_SM8350_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\8SGen4",
+      "programmers": [
+        {
+          "path": "Firehoses\\8SGen4\\prog_firehose_ddr_sm8735.elf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\8SGen4\\DigestsToSign_sm8735.bin.mbn"
+      ],
+      "verifications": [
+        "Firehoses\\8SGen4\\OPPO_SM8750_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\8e",
+      "programmers": [
+        {
+          "path": "Firehoses\\8e\\OPPO_SM8750_New_Chimera_V1.0.05.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\8e\\OPPO_8E_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\8e\\OPPO_8E_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\8g1",
+      "programmers": [
+        {
+          "path": "Firehoses\\8g1\\SM8450_V1.5.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\8g1\\Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\8g1\\Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\8g3",
+      "programmers": [
+        {
+          "path": "Firehoses\\8g3\\OPPO_SM8650_New_Chimera_V1.0.21.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\8g3\\OPPO_8Gen3_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\8g3\\OPPO_8Gen3_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\8plus",
+      "programmers": [
+        {
+          "path": "Firehoses\\8plus\\SM8475_V3.0.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\8plus\\Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\8plus\\Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\OnePlus11Firehoses",
+      "programmers": [
+        {
+          "path": "Firehoses\\OnePlus11Firehoses\\OPPO_8Gen2_New_Chimera_V2.6.melf",
+          "format": "MELF"
+        },
+        {
+          "path": "Firehoses\\OnePlus11Firehoses\\OPPO_8Gen2_New_Chimera_V2.7.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\OnePlus11Firehoses\\Digest2.bin",
+        "Firehoses\\OnePlus11Firehoses\\digest"
+      ],
+      "verifications": [
+        "Firehoses\\OnePlus11Firehoses\\sig"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SDM845_Special",
+      "programmers": [
+        {
+          "path": "Firehoses\\SDM845_Special\\SDM845_New_Chimera.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [],
+      "verifications": [],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM4350_480_Special",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM4350_480_Special\\OPPO480.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM4350_480_Special\\Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\SM4350_480_Special\\Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM6115_460_662",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM6115_460_662\\OPPO_SM6115_New_Chimera_V1.2.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM6115_460_662\\OPPO_SM6115_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM6115_460_662\\OPPO_SM6115_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM6375_695_6sGen3",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM6375_695_6sGen3\\OPPO_SM6375_New_Chimera_V2.1.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM6375_695_6sGen3\\OPPO_SM6375_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM6375_695_6sGen3\\OPPO_SM6375_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM7475_7PlusGen2",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM7475_7PlusGen2\\SM7475_V1.3.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM7475_7PlusGen2\\SM7475_Digest.bin"
+      ],
+      "verifications": [
+        "Firehoses\\SM7475_7PlusGen2\\SM7475_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM7675_7PlusGen3",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM7675_7PlusGen3\\OPPO_SM7675_New_Chimera_V1.0.00.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM7675_7PlusGen3\\OPPO_SM7675_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM7675_7PlusGen3\\OPPO_SM7675_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8350_888_888Plus",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8350_888_888Plus\\OPPO_SM8350_New_Chimera_V2.6.elf",
+          "format": "ELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8350_888_888Plus\\OPPO_SM8350_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM8350_888_888Plus\\OPPO_SM8350_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8475_8PlusGen1",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8475_8PlusGen1\\OPPO_SM8475_New_Chimera_V3.0.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8475_8PlusGen1\\OPPO_SM8475_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM8475_8PlusGen1\\OPPO_SM8475_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8550_8Gen2_8_Gen2",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8550_8Gen2_8_Gen2\\OPPO_SM8550_New_Chimera_V2.6.melf",
+          "format": "MELF"
+        },
+        {
+          "path": "Firehoses\\SM8550_8Gen2_8_Gen2\\OPPO_SM8550_New_Chimera_V2.7.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8550_8Gen2_8_Gen2\\Digest2.bin",
+        "Firehoses\\SM8550_8Gen2_8_Gen2\\OPPO_SM8550_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM8550_8Gen2_8_Gen2\\OPPO_SM8550_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8650_8Gen3",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8650_8Gen3\\OPPO_SM8650_New_Chimera_V1.0.21.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8650_8Gen3\\OPPO_SM8650_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM8650_8Gen3\\OPPO_SM8650_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8735_8sGen4",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8735_8sGen4\\prog_firehose_ddr_sm8735.elf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8735_8sGen4\\DigestsToSign_sm8735.bin.mbn"
+      ],
+      "verifications": [
+        "Firehoses\\SM8735_8sGen4\\OPPO_SM8750_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    },
+    {
+      "path": "Firehoses\\SM8750_8E",
+      "programmers": [
+        {
+          "path": "Firehoses\\SM8750_8E\\OPPO_SM8750_New_Chimera_V1.0.05.melf",
+          "format": "MELF"
+        }
+      ],
+      "digests": [
+        "Firehoses\\SM8750_8E\\OPPO_SM8750_New_Chimera_Digest.elf"
+      ],
+      "verifications": [
+        "Firehoses\\SM8750_8E\\OPPO_SM8750_New_Chimera_Sign.bin"
+      ],
+      "other": []
+    }
+  ],
+  "warnings": []
+}

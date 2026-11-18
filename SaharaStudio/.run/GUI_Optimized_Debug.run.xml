@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GUI - Optimized Debug" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="Launch">
+    <option name="command" value="run --locked --profile release-debug --package edl-studio --bin edl-studio" />
+    <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <option name="emulateTerminal" value="false" />
+    <option name="channel" value="DEFAULT" />
+    <option name="requiredFeatures" value="true" />
+    <option name="allFeatures" value="false" />
+    <option name="withSudo" value="false" />
+    <option name="buildTarget" value="LOCAL" />
+    <option name="backtrace" value="SHORT" />
+    <envs />
+    <method v="2">
+      <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+    </method>
+  </configuration>
+</component>

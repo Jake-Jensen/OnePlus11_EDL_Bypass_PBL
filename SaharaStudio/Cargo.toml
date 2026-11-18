@@ -1,0 +1,27 @@
+[workspace]
+members = ["crates/edl-core", "crates/edl-studio"]
+resolver = "2"
+
+[workspace.package]
+version = "1.0.0"
+edition = "2024"
+license = "GPL-3.0-or-later"
+
+[workspace.dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive", "rc"] }
+serde_json = "1"
+sha2 = "0.10"
+hex = "0.4"
+chrono = { version = "0.4", features = ["serde"] }
+
+[profile.release]
+lto = "thin"
+strip = true
+
+# Optimized code with full symbols for RustRover's native debugger.
+[profile.release-debug]
+inherits = "release"
+debug = 2
+strip = false
+

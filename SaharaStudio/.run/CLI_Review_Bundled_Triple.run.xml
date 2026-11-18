@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CLI - Review Bundled Triple" type="CargoCommandRunConfiguration" factoryName="Cargo Command" folderName="Offline CLI">
+    <option name="command" value="run --locked --package edl-studio --bin edl-inspect -- review Firehoses/SM8550_8Gen2_8_Gen2/OPPO_SM8550_New_Chimera_V2.6.melf Firehoses/SM8550_8Gen2_8_Gen2/Digest2.bin Firehoses/SM8550_8Gen2_8_Gen2/OPPO_SM8550_New_Chimera_Sign.bin" />
+    <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+    <option name="emulateTerminal" value="false" />
+    <option name="channel" value="DEFAULT" />
+    <option name="requiredFeatures" value="true" />
+    <option name="allFeatures" value="false" />
+    <option name="withSudo" value="false" />
+    <option name="buildTarget" value="LOCAL" />
+    <option name="backtrace" value="SHORT" />
+    <envs />
+    <method v="2">
+      <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+    </method>
+  </configuration>
+</component>

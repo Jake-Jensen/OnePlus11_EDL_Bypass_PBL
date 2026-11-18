@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "role": "Programmer",
+      "path": "Firehoses/SM8550_8Gen2_8_Gen2/OPPO_SM8550_New_Chimera_V2.6.melf",
+      "size": 1633124,
+      "sha256": "c8192a7b31aaa88390c0d4e80c3f342b3a884c27c82c6dbd1de2b4575c9a757b",
+      "inspection": "MELF; parsed successfully; Dual-authority image signature not verified; certificate signatures verified separately; Certificate C=US, ST=CA, L=San Diego, O=QUALCOMM, CN=CASS - SBL4: Valid; Certificate O=Qualcomm Technologies, Inc., OU=Qualcomm Cryptographic Operations, CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1: Valid; Certificate O=Qualcomm Technologies, Inc., OU=Qualcomm Cryptographic Operations, CN=SRoT MBNv7 Image Signing Root CA 6: Valid; Certificate C=CN, ST=Guangdong, L=Shenzhen, OU=OPLUS Technologies, O=OPLUS, CN=OPLUS SM8550 Attestation: Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"OPLUS Technologies\", O=OPLUS, CN=\"OPLUS Attestation CA\": Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"General OPLUS Use Key\", O=OPLUS, CN=\"OPLUS ROOT CA 1\": Valid; 1 segment hash mismatch(es); Dual-authority image signature not verified; certificate signatures verified separately; Certificate C=US, ST=CA, L=San Diego, O=QUALCOMM, CN=CASS - SBL4: Valid; Certificate O=Qualcomm Technologies, Inc., OU=Qualcomm Cryptographic Operations, CN=SRoT MBNv7 Image Signing Root CA 6 SubCA 1: Valid; Certificate O=Qualcomm Technologies, Inc., OU=Qualcomm Cryptographic Operations, CN=SRoT MBNv7 Image Signing Root CA 6: Valid; Certificate C=CN, ST=Guangdong, L=Shenzhen, OU=OPLUS Technologies, O=OPLUS, CN=OPLUS SM8550 Attestation: Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"OPLUS Technologies\", O=OPLUS, CN=\"OPLUS Attestation CA\": Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"General OPLUS Use Key\", O=OPLUS, CN=\"OPLUS ROOT CA 1\": Valid; Valid OEM image signature (local key; target trust unknown); Certificate C=CN, ST=Guangdong, L=Shenzhen, OU=OPLUS Technologies, O=OPLUS, CN=OPLUS SM8550 Attestation: Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"OPLUS Technologies\", O=OPLUS, CN=\"OPLUS Attestation CA\": Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"General OPLUS Use Key\", O=OPLUS, CN=\"OPLUS ROOT CA 1\": Valid; Valid OEM image signature (local key; target trust unknown); Certificate C=CN, ST=Guangdong, L=Shenzhen, OU=OPLUS Technologies, O=OPLUS, CN=OPLUS SM8550 Attestation: Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"OPLUS Technologies\", O=OPLUS, CN=\"OPLUS Attestation CA\": Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"General OPLUS Use Key\", O=OPLUS, CN=\"OPLUS ROOT CA 1\": Valid"
+    },
+    {
+      "role": "Digest",
+      "path": "Firehoses/SM8550_8Gen2_8_Gen2/Digest2.bin",
+      "size": 28472,
+      "sha256": "30fd804a5ab48960d131c4fbb19d1b1282b34cbd4d86dbf6b7bb9ef7673f6bd8",
+      "inspection": "ELF; parsed successfully; Valid OEM image signature (local key; target trust unknown); Certificate C=CN, ST=Guangdong, L=Shenzhen, OU=OPLUS Technologies, O=OPLUS, CN=OPLUS SM8550 Attestation: Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"OPLUS Technologies\", O=OPLUS, CN=\"OPLUS Attestation CA\": Valid; Certificate C=CN, ST=Guangdong, L=\"Shenzhen\", OU=\"General OPLUS Use Key\", O=OPLUS, CN=\"OPLUS ROOT CA 1\": Valid"
+    },
+    {
+      "role": "Verification",
+      "path": "Firehoses/SM8550_8Gen2_8_Gen2/OPPO_SM8550_New_Chimera_Sign.bin",
+      "size": 4096,
+      "sha256": "6045260e63fd08f92892f4c3bcd980ce71dacea6fff96c66399a562acb4fe581",
+      "inspection": "Opaque companion; format and detached signature relationship unverified"
+    }
+  ],
+  "relationship": "File integrity and supported embedded signatures inspected locally. Digest/programmer association and detached verification are unverified; filenames and shared folders do not prove compatibility. Companions are not transmitted by the Sahara uploader."
+}

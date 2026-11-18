@@ -1,0 +1,170 @@
+[
+  {
+    "image_id": 13,
+    "offset": 0,
+    "requested": 64,
+    "sent": 64,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 52,
+    "requested": 64,
+    "sent": 64,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 116,
+    "requested": 131072,
+    "sent": 131072,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 131188,
+    "requested": 640,
+    "sent": 640,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 131828,
+    "requested": 64,
+    "sent": 64,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 131880,
+    "requested": 416,
+    "sent": 416,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 340724,
+    "requested": 11424,
+    "sent": 11424,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 134900,
+    "requested": 376,
+    "sent": 376,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 137972,
+    "requested": 167896,
+    "sent": 167896,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 305868,
+    "requested": 23764,
+    "sent": 23764,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 329632,
+    "requested": 4660,
+    "sent": 4660,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 352148,
+    "requested": 64,
+    "sent": 64,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 352212,
+    "requested": 504,
+    "sent": 504,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1195924,
+    "requested": 11232,
+    "sent": 11232,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 356244,
+    "requested": 172032,
+    "sent": 172032,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 528276,
+    "requested": 172032,
+    "sent": 172032,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 700308,
+    "requested": 172032,
+    "sent": 172032,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 872340,
+    "requested": 77824,
+    "sent": 77824,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 950164,
+    "requested": 65536,
+    "sent": 65536,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1015700,
+    "requested": 172032,
+    "sent": 172032,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1187732,
+    "requested": 4096,
+    "sent": 4096,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1207156,
+    "requested": 64,
+    "sent": 64,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1207220,
+    "requested": 392,
+    "sent": 392,
+    "matches": true
+  },
+  {
+    "image_id": 13,
+    "offset": 1497972,
+    "requested": 4088,
+    "sent": 4088,
+    "matches": true
+  }
+]

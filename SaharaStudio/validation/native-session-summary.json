@@ -1,0 +1,8 @@
+{
+  "Capture": "C:\\Tools\\edl-vip\\rust\\sessions\\session-20261117-093030-250263000.jsonl",
+  "Programmer": "P:\\OnePlus11\\Chimera_OPLUS_files\\OnePlus11Firehoses\\OPPO_8Gen2_New_Chimera_V2.6.melf",
+  "Requests": 24,
+  "AllMatch": true,
+  "Bytes": 1192368.0,
+  "FinalError": "END_IMAGE_TX: image 13, status 0x21 — HASH_TABLE_AUTH_FAILURE. Programmer bytes sent: 1192368"
+}

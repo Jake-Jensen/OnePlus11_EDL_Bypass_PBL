@@ -1,0 +1,7 @@
+/target/
+/sessions/
+/settings.json
+
+/dist/
+/data/
+/.idea/
